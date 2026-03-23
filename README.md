@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Prem Kumar:
 🔭 I’m currently working at Softech Technologies as a Senior Engineer.<br>🏗️ Delivered end-to-end platforms for HRMS, Healthcare, Financial and Retail sectors.<br>👯 I’m looking to collaborate on Fullstack, DevOps, and MLOps initiatives.<br>🤝 I’m looking for help with gaining expertise over AI applications.<br>🌱 I’m currently pursuing interest in deep expertise in GenAI orchestration and LLM application development.<br>💬 Ask me about regarding Fullstack architecture, CI/CD automation, and Data Science pipelines.<br>📫 How to reach me premkrb45@gmail.com<br>👔 Know about my experiences LinkedIn(www.linkedin.com/in/premkrb)<br>⚡ Fun fact I optimize code like I solve Rubik's Cubes, efficiently and in under 60 seconds.<br>
 
 
